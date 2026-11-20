@@ -144,7 +144,7 @@ def main():
          "Europe ready for talks with Russia to end the Ukraine war",
          "Leaders signal talks after the Berlin meeting."),
         ("CONFLICT  •  GULF", "ship", (140, 40, 40),
-         "Tanker burns after hitting a mine east of the Strait of Hormuz",
+         "Tanker hit by mine east of the Strait of Hormuz",
          "Houthi missile hits Riyadh's tallest tower."),
         ("MARKETS  •  SLIDE", "fall", (178, 34, 34),
          "S&P 500 falls 2% for a fifth straight loss",
